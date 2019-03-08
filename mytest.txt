@@ -1,8 +1,5 @@
-abcdefg
-1234567
 JavaSE
 JavaEE
 one-two-three-four-five
-hahhahahehehehe
 itheima--itcast
 Chinese is Good
