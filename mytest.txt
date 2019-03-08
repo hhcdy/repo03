@@ -5,3 +5,4 @@ JavaEE
 one-two-three-four-five
 hahhahahehehehe
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Chinese is Good
