@@ -3,3 +3,4 @@ JavaEE
 one-two-three-four-five
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 itheima--itcast
+Chinese is Good
